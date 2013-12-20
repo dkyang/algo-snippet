@@ -1,3 +1,5 @@
+// 3-way string quicksort
+
 public class Quick3WaySort {
 	public static void sort(String[] a) {
 		sort(a, 0, a.length-1, 0);
